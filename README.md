@@ -6,3 +6,10 @@ A simple [Hapi](http://hapijs.com/) server that returns a
 ```
 curl http://localhost:5000?url=http://google.com
 ```
+
+## TODO
+
+- [ ] Tests
+- [ ] Break up into Hapi plugins
+- [ ] Metrics
+- [ ] Exception tracking w/ Rollbar
