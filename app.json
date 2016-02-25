@@ -1,0 +1,7 @@
+{
+  "name": "cssstats-server",
+  "description": "A simple server that returns a cssstats object for a given URL",
+  "repository": "https://github.com/max/cssstats-server",
+  "website": "https://github.com/max/cssstats-server",
+  "keywords": ["cssstats"]
+}
